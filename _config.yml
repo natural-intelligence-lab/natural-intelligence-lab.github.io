@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hansem / Hansem"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Hansem Sohn"
 description              : &description "Hansem Sohn's personal website"
