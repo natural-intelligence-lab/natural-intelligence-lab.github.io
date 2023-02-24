@@ -16,7 +16,7 @@ November 2022: Reza & Andrew’s work titled “A large-scale neural network tra
 
 October 2022: Jason’s work that I mentored is accepted as an oral presentation in [NeurIPS](https://openreview.net/forum?id=wmwWgDNNG-) workshop
 
-October 2021: My review paper with Devika titled “” is published in [Current Opinion in Neurobiology](https://www.sciencedirect.com/science/article/pii/S0959438821001082)
+October 2021: My review paper with Devika titled “Neural implementations of Bayesian inference” is published in [Current Opinion in Neurobiology](https://www.sciencedirect.com/science/article/pii/S0959438821001082)
 
 June 2021: My work titled “Validating model-based Bayesian integration using prior–cost metamers” is published in [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2021531118)
 
