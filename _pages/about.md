@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a brand-new assistant professor at Sungkyunkwan University (SKKU) in South Korea studying how the brain generates complex and intelligent behaviors. I am affiliated with Institute for Basic Science (IBS) - [Center for Neuroscience Imaging Research](https://cnir.ibs.re.kr/html/cnir_en/) and Department of Biomedical Engineering.
 
 I was a postdoctoral associate/research scientist at MIT working with [Mehrdad Jazayeri](https://jazlab.org/) and at Yale working with [Daeyeol Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/). I obtained my Ph.D. in neuroscience from Seoul National University mentored by [Sang-hun Lee](https://www.snu-csnl.com/) and my master/undergrad from KAIST mentored by [Jaeseong Jeong](http://raphe.kaist.ac.kr/).
