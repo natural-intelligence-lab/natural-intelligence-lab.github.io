@@ -5,9 +5,15 @@ main:
 
   - title: "CV"
     url: /files/CV_HansemSohn.pdf
+
+  - title: "Research"
+    url: /research/
     
   - title: "Lab"
     url: /lab/    
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Job"
+    url: /job/
