@@ -10,7 +10,7 @@ redirect_from:
 
 I am a brand-new assistant professor at Sungkyunkwan University (SKKU) in South Korea studying how the brain generates complex and intelligent behaviors. I am affiliated with Institute for Basic Science (IBS) - [Center for Neuroscience Imaging Research](https://cnir.ibs.re.kr/html/cnir_en/) and Department of Biomedical Engineering.
 
-I was a postdoctoral associate/research scientist at MIT working with [Mehrdad Jazayeri](https://jazlab.org/) and at Yale working with [Daeyeol Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/). I obtained my Ph.D. in neuroscience from Seoul National University mentored by [Sang-hun Lee](https://www.snu-csnl.com/) and my master/undergrad from KAIST mentored by [Jaeseong Jeong](http://raphe.kaist.ac.kr/).
+I was a postdoctoral associate/research scientist at MIT working with [Mehrdad Jazayeri](https://jazlab.org/) and at Yale working with [Daeyeol Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/). I obtained my Ph.D. in neuroscience from Seoul National University mentored by [Sang-hun Lee](https://www.snu-csnl.com/) and my master/undergrad from KAIST mentored by [Jaeseung Jeong](http://raphe.kaist.ac.kr/).
 
 My area of research is cognitive and systems neuroscience. I have been investigating how the brain measures and processes time using multiple approaches: behavioral experiments, computational modeling (e.g., Bayesian theory), human neuroimaging (EEG/fMRI) and electrophysiology in non-human primates. In my new lab, I will combine these techniques to study how the prefrontal and posterior parietal cortices process information about magnitude (time, number, and space).
 
