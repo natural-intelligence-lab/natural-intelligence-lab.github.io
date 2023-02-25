@@ -23,9 +23,9 @@ author_profile: true
 
 [12] <em>__Sohn H__</em>, Jazayeri M (2021) Validating model-based Bayesian integration using prior-cost metamers. Proc Natl Acad Sci U S A 118 (25): e2021531118. PMID34161261
 
-[11] <em>__Sohn H__</em>^, Meirhaeghe N^, Rajalingham R, Jazayeri M (2020) A network perspective on sensorimotor learning. Trends in Neuroscience 44(3):170-181. PMID33349476 (*Equal Contribution).
+[11] <em>__Sohn H__</em>^, Meirhaeghe N^, Rajalingham R, Jazayeri M (2020) A network perspective on sensorimotor learning. Trends in Neuroscience 44(3):170-181. PMID33349476 (^Equal Contribution).
 
-[10] <em>__Sohn H__</em>^, Narain D^, Meirhaeghe N^, Jazayeri M (2019) Bayesian computation through cortical latent dynamics. Neuron 103(5):934-947. PMID31320220 (*Equal Contribution).
+[10] <em>__Sohn H__</em>^, Narain D^, Meirhaeghe N^, Jazayeri M (2019) Bayesian computation through cortical latent dynamics. Neuron 103(5):934-947. PMID31320220 (^Equal Contribution).
 
 [9] Kleinman MR, <em>__Sohn H__</em>, Lee D (2016) A two-stage model for concurrent interval timing in monkeys. J Neurophysiol 116(3):1068-1081. PMID27334954.
 
@@ -35,12 +35,12 @@ author_profile: true
 
 [6] Latchoumane C, Kim I, <em>__Sohn H__</em>, Jeong J (2013) Dynamical nonstationarity of resting EEGs in patients with attention-deficit/hyperactivity disorder (AD/HD). IEEE T Bio-med Eng 60(1):159-163. PMID22955863
 
-[5] Hong H^, <em>__Sohn H__</em>^, Cha M, Kim S, Oh J, Chu MK, Namkoong K, Jeong J (2012) Increased frontomotor oscillations during tic suppression in children with Tourette syndrome. J Child Neurol (published online before print; *Equal Contribution). PMID22859696
+[5] Hong H^, <em>__Sohn H__</em>^, Cha M, Kim S, Oh J, Chu MK, Namkoong K, Jeong J (2012) Increased frontomotor oscillations during tic suppression in children with Tourette syndrome. J Child Neurol (published online before print; ^Equal Contribution). PMID22859696
 
 [4] Kim YT, <em>__Sohn H__</em>, Kim S, Oh J, Peterson BS, Jeong J (2012) Disturbances of motivational balance in chronic schizophrenia during decision-making tasks. Psychiat Clin Neuros 66: 573-581. PMID23252923
 
 [3] Kim YT, <em>__Sohn H__</em>, Jeong J (2011) Delayed transition from ambiguous to risky decision-making in alcohol dependence during Iowa gambling task. Psychiat Res 190:297-303. PMID21676471
 
-[2] <em>__Sohn H__</em>^, Kim I^, Lee W, Peterson BS, Hong H, Chae J, Hong S, Jeong J (2010) Linear and non-linear EEG analysis of adolescents with attention-deficit/hyperactivity disorder during a cognitive task. Clin Neurophysiol 121:1863-1870 (Cover Article; *Equal Contribution). PMID20659814
+[2] <em>__Sohn H__</em>^, Kim I^, Lee W, Peterson BS, Hong H, Chae J, Hong S, Jeong J (2010) Linear and non-linear EEG analysis of adolescents with attention-deficit/hyperactivity disorder during a cognitive task. Clin Neurophysiol 121:1863-1870 (Cover Article; ^Equal Contribution). PMID20659814
 
 [1] <em>__Sohn H__</em>, Kim S (2006) Simple reinforcement learning models are not always appropriate. J Neurosci 26:11511-11512 (Journal Club). PMID17106946
