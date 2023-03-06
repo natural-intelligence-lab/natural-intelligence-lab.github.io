@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hansem Sohn"
+title                    : "Natural Intelligence Laboratory"
 title_separator          : "|"
-name                     : &name "Hansem Sohn"
-description              : &description "Hansem Sohn"
-url                      : https://hansem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Natural Intelligence Laboratory"
+description              : &description "HNatural Intelligence Laboratory"
+url                      : https://natural-intelligence-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hansem/hansem.github.io"
+repository               : "https://natural-intelligence-lab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "HansemSohn_20170406_00_profile.jpg"
-  bio              : "Asst Prof @ SKKU in Korea. Postdoc @ MIT/Yale. Cognitive/Systems Neuro. Dad. He/him."
+  avatar           : "lab-logo.png"
+  bio              : "Institute for Basic Science (IBS), Center for Neuroscience Imaging Research & Dept. of Biomedical Engineering, Sungkyunkwan University (SKKU)"
   location         : "Suwon, South Korea"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn"
   googlescholar    : "https://scholar.google.com/citations?user=1TWKOoIAAAAJ&hl=en"
-  email            : "hansem.sohn@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Hansem-Sohn"
+  email            : "natural.intelligence.lab@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hansem"
+  github           : "natural-intelligence-lab"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hansem-sohn-55b1637"
-  orcid            : "https://orcid.org/0000-0001-8593-7473"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hansemsohn"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
