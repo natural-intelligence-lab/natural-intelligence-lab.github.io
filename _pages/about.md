@@ -7,28 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Vision statement
 
-I am a brand-new assistant professor at Sungkyunkwan University (SKKU) in South Korea studying how the brain generates complex and intelligent behaviors. I am affiliated with Institute for Basic Science (IBS) - [Center for Neuroscience Imaging Research](https://cnir.ibs.re.kr/html/cnir_en/) and [Department of Biomedical Engineering](https://gbme.skku.edu/gbme_en/index.do).
+We aim at solving the mystery of how the brain generates complex and intelligent behaviors. To this end, we carefully design behavioral tasks, measure neural activities at multiple scales, and analyze data using computational models and theories. These efforts are driven by curiosity and passion for science, strong work ethic, independence, optimism, constructive criticism, diversity, and teamwork. We will be recognized for doing creative but rigorous science.
 
-I was a postdoctoral associate/research scientist at MIT working with [Mehrdad Jazayeri](https://jazlab.org/) and at Yale working with [Daeyeol Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/). I obtained my Ph.D. in neuroscience from Seoul National University mentored by [Sang-hun Lee](https://www.snu-csnl.com/) and my master/undergrad from KAIST mentored by [Jaeseung Jeong](http://raphe.kaist.ac.kr/).
+## Approach
 
-My area of research is cognitive and systems neuroscience. I have been investigating how the brain measures and processes time using multiple approaches: behavioral experiments, computational modeling (e.g., Bayesian theory), human neuroimaging (EEG/fMRI) and electrophysiology in non-human primates. In my new lab, I will combine these techniques to study how the prefrontal and posterior parietal cortices process information about magnitude (time, number, and space).
-
-In my spare time (if I can!), I enjoy spending time with my daughters outdoors (camping,skiing) and would love to adopt a dog.
+![framework](../images/framework.png)
 
 **Recent Updates**
 
-February 2023: I start my own lab at Sungkyunkwan University (SKKU), Department of Biomedical Engineering & Institute for Basic Science - Center for Neuroscience Imaging Research
-
-January 2023: Manuel & Nico's work titled “Parametric control of flexible timing through low-dimensional neural manifolds”, which I am a part of, is published in [Neuron](https://www.sciencedirect.com/science/article/pii/S0896627322010893)
-
-November 2022: Reza & Andrew’s work titled “A large-scale neural network training framework for generalized estimation of single-trial population dynamics”, which I am a part of, is published in [Nature Methods](https://www.nature.com/articles/s41592-022-01675-0)
-
-October 2022: Jason’s work that I mentored is accepted as an oral presentation in [NeurIPS](https://openreview.net/forum?id=wmwWgDNNG-) workshop
-
-October 2021: My review paper with Devika titled “Neural implementations of Bayesian inference” is published in [Current Opinion in Neurobiology](https://www.sciencedirect.com/science/article/pii/S0959438821001082)
-
-June 2021: My work titled “Validating model-based Bayesian integration using prior–cost metamers” is published in [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2021531118)
+February 2023: We (n=1) are open for business!
 
 
 
