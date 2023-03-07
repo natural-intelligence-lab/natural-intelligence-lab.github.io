@@ -10,7 +10,6 @@ _Interested in working in the Natural Intelligence Lab?_
 _please contact [my first name].[my last name] [at] gmail.com with your CV!_
 
 ## Location
-![Ncenter](../images/Ncenter.png)
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d406290.9118283268!2d126.975539!3d37.291632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42b7d58a24f7%3A0x9e67796ab3b20680!2sN%20Center%2C%20Sungkyunkwan%20University!5e0!3m2!1sen!2skr!4v1678148159471!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Center for Neuroscience Imaging Research (CNIR) at Institute for Basic Science (IBS)
@@ -22,7 +21,7 @@ Our lab is a part of the [Center for Neuroscience Imaging Research (CNIR)](https
 
 - [Living in Korea](../images/living_in_korea(ver_2019.01).pdf) - A guide for international scientists at the Institute for Basic Science (2019 edition).
 - [Living cost in Suwon](https://www.numbeo.com/cost-of-living/in/Suwon-South-Korea)
-- [NYT’s 36 hours in Seoul] (https://www.nytimes.com/interactive/2022/12/15/travel/things-to-do-seoul.html?unlocked_article_code=w4MBmn8G17a89iytBEUbkkEspeylj8kyqbUCgElOoxaXv6mdw2qf4Srbg7c9lo84Zoe5P37EKyFkbCrdpZclS1Y50AyI2peAgOp-xG--fm5rSSvVvbqLTGNRJTiR0DZWm-qhirlZmFeySUw6GV8zH9KSPu4SrcwQ-46xXjeXKIO5aQ9Y1kdlYd9Y423moLVchahYClyg45n8Ij7K9Q3IGD9IJUJo81oR4OfoiBka6o0XDmI9lijn-oxpfFc4Je4rEdPk91HVDYJQAGWCzX8bWA8H9f0qCRbGPj0TTcdbhiEWWsm2Bo2JVqhzWM1imx36S30m2oiGNKzxoJxMwXWEiBvcjPub7ogjpQEw&smid=url-share)
-- [Korean Englishman Youtube channel] (https://www.youtube.com/user/koreanenglishman)
-- [Conan O’Brien visited Korea] (https://www.youtube.com/playlist?list=PLVL8S3lUHf0RvCcVJRVh8IWUDaIL50xnI)
+- [Korean Englishman Youtube channel](https://www.youtube.com/user/koreanenglishman)
+- [Conan O’Brien visited Korea](https://www.youtube.com/playlist?list=PLVL8S3lUHf0RvCcVJRVh8IWUDaIL50xnI)
+- [NYT’s 36 hours in Seoul](https://www.nytimes.com/interactive/2022/12/15/travel/things-to-do-seoul.html?unlocked_article_code=w4MBmn8G17a89iytBEUbkkEspeylj8kyqbUCgElOoxaXv6mdw2qf4Srbg7c9lo84Zoe5P37EKyFkbCrdpZclS1Y50AyI2peAgOp-xG--fm5rSSvVvbqLTGNRJTiR0DZWm-qhirlZmFeySUw6GV8zH9KSPu4SrcwQ-46xXjeXKIO5aQ9Y1kdlYd9Y423moLVchahYClyg45n8Ij7K9Q3IGD9IJUJo81oR4OfoiBka6o0XDmI9lijn-oxpfFc4Je4rEdPk91HVDYJQAGWCzX8bWA8H9f0qCRbGPj0TTcdbhiEWWsm2Bo2JVqhzWM1imx36S30m2oiGNKzxoJxMwXWEiBvcjPub7ogjpQEw&smid=url-share)
 
