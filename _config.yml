@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "lab-logo.png"
-  bio              : "[Institute for Basic Science (IBS), Center for Neuroscience Imaging Research](https://cnir.ibs.re.kr/html/cnir_en/) & [Dept. of Biomedical Engineering](https://gbme.skku.edu/gbme_en/index.do), Sungkyunkwan University (SKKU)"
+  bio              : <a href="https://cnir.ibs.re.kr/html/cnir_en/">Institute for Basic Science (IBS), Center for Neuroscience Imaging Research</a> & <a href="https://gbme.skku.edu/gbme_en/index.do">Dept. of Biomedical Engineering</a>, Sungkyunkwan University (SKKU)
   location         : "[Suwon, South Korea](https://goo.gl/maps/yKC7eiP6aZrM2hiY9)"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn"
