@@ -18,6 +18,6 @@ We aim at solving the mystery of how the brain generates complex and intelligent
 **Recent Updates**
 
 February 2023: We (n=1) are open for business!
-
+![Ncenter](../images/Ncenter.png)
 
 
