@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Vision statement
 
-We aim at solving the mystery of how the brain generates complex and intelligent behaviors. To this end, we carefully design behavioral tasks, measure neural activities at multiple scales, and analyze data using computational models and theories. These efforts are driven by curiosity and passion for science, strong work ethic, independence, optimism, constructive criticism, diversity, and teamwork. We will be recognized for doing creative but rigorous science.
+We aim to solve the mystery of how the brain generates complex and intelligent behaviors. To this end, we carefully design behavioral tasks, measure neural activities at multiple scales, and analyze data using computational models and theories. These efforts are driven by curiosity and a passion for science, a strong work ethic, independence, optimism, constructive criticism, diversity, and teamwork. We aspire to be recognized for our creative but rigorous scientific approach.
 
 ## Approach
 
