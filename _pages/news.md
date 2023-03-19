@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-March 2023 (week 3): checking equipments (can you tell what's missing in the right?)
+March 2023 (week 3): checking equipments; can you tell what's missing in the right?
 
 <img src="../images/NHP_MRI_chair.jpg" width="150">
 
-March 2023 (week 2): not a bad start!
+March 2023 (week 2): got two monitors!
 
 <img src="../images/2week.png" width="150">
 
