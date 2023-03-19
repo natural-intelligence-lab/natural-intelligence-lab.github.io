@@ -14,5 +14,5 @@ _Geek & Dad_
 
 ### [YOU](https://natural-intelligence-lab.github.io/job)
 
-#### The lab is committed to promote diversity and inclusive environment!
+> The lab is committed to promote diversity and inclusive environment!
 ![science_is_real](../images/SCIENCE_IS_REAL.jpeg)
