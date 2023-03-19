@@ -10,9 +10,7 @@ author_profile: true
 ### [Hansem Sohn: PI](https://hansem.github.io/)
 _Geek & Dad_
 
-<img src="../images/HansemSohn_20170406_00_profile.jpg" width="100">
-
-![people_hansem](../images/HansemSohn_20170406_00_profile.jpg){: width="100" height="100"}
+<img src="../images/HansemSohn_20170406_00_profile.jpg" width="150">
 
 ### [YOU](https://natural-intelligence-lab.github.io/job)
 
