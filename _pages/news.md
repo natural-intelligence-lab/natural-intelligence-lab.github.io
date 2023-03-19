@@ -13,7 +13,7 @@ March 2023 (week 3): checking equipments (can you tell what's missing in the rig
 
 March 2023 (week 2): not a bad start!
 
-<img src="../images/2week.JPG" width="150">
+<img src="../images/2week.jpg" width="150">
 
 February 2023 (week 1): 1st day in the office!
 
