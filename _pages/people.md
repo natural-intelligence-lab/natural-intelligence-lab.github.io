@@ -11,7 +11,7 @@ author_profile: true
 _Geek & Dad_
 ![people_hansem](../images/HansemSohn_20170406_00_profile.png){: width="100" height="100"}
 
-## [YOU](https://natural-intelligence-lab.github.io/job)
+### [YOU](https://natural-intelligence-lab.github.io/job)
 
-* The lab is committed to promote diversity and inclusive environment!
+#### The lab is committed to promote diversity and inclusive environment!
 ![science_is_real](../images/SCIENCE_IS_REAL.jpeg)
