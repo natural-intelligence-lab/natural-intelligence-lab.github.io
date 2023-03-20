@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-_Full publication list on [Google Scholar](https://scholar.google.com/citations?user=1TWKOoIAAAAJ&hl=en), [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn), [ORCID](https://orcid.org/0000-0001-8593-7473), [ResearchGate](https://orcid.org/0000-0001-8593-7473)_
+_Full publication list on [Google Scholar](https://scholar.google.com/citations?user=1TWKOoIAAAAJ&hl=en), [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn), [ORCID](https://orcid.org/0000-0001-8593-7473), [ResearchGate](https://www.researchgate.net/profile/Hansem-Sohn)_
 
 [19] Rajalingham R^, <em>__Sohn H__</em>^, Jazayeri M (in revision) Dynamic tracking of objects in the macaque dorsomedial frontal cortex. https://doi.org/10.1101/2022.06.24.497529 (^Equal Contribution)
 
