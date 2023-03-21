@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Integrative approach to study principles of natural intelligence
-* It is not easy to _understand_ natural intelligence. So we take multidisciplinary approach - cognitive computational neuroscience - including careful design of cool tasks, observing behaviors from both humans and non-human primates, collecting neural data with functional neuroimaging and electrophysiology, testing predictions from computational theories and models, and comparing artificial neural networks to biological data. Of course, this is going to be a daunting task, which is exactly why we need teamwork and collaborations!
+## Integrative approach to studying principles of natural intelligence
+* _Understanding_ natural intelligence is not easy. Therefore, we take a multidisciplinary approach - cognitive computational neuroscience - that includes careful design of cool tasks, observing behaviors from both humans and non-human primates, collecting neural data with functional neuroimaging and electrophysiology, testing predictions from computational theories and models, and comparing artificial neural networks to biological data. Of course, this is going to be a daunting task, which is exactly why we need teamwork and collaborations!
 
 ## Project 1. Numerical cognition and compositionality
 * In this project, we will tackle the following questions:
@@ -26,15 +26,16 @@ How does the brain make inferences based on relations between objects? To tackle
 <p style="text-align: left;">Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </p>
 
 ## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
-  * _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
-  * _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
+>_Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
+
+>_Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
 
 <img src="../images/postdoc_monkey.png" width="700">
 
 **Research questions**
-* What is the neural mechanism behind behavioral biases in interval timing? (answer: curved neural manifold)
-* Is there a common principle behind the bias generation between biological and artificial neural networks? (answer: yes, we observed curved manifold in both networks)
-* How does the brain process multiple events that occur concurrently in time? (answer: we don’t know yet)
+* What is the neural mechanism behind behavioral biases in interval timing? (Answer: curved neural manifold)
+* Is there a common principle behind the bias generation between biological and artificial neural networks? (Answer: yes, we observed curved manifold in both networks)
+* How does the brain process multiple events that occur concurrently in time? (Answer: we don’t know yet)
 
 **Publications**
 * Sohn H^, Narain D^, Meirhaeghe N^, Jazayeri M (2019) Bayesian computation through cortical latent dynamics. Neuron 103(5):934-947. PMID31320220 (^Equal Contribution).
@@ -55,7 +56,7 @@ the Society for Neuroscience (2018)
 
 <img src="../images/phd_human.png" width="700">
 
-* Many of our behaviors exhibit biases and rely on heuristics built through prior experiences. This process has been formalized by Bayesian decision theory, which has been quite successful in explaining behaviors across many different domains. One of the domains where the behavioral biases express prominently is timing and time perception, partly owing to its high measurement noises. After being trained in visual neuroscience (e.g., studying binocular rivalry), I performed human psychophysics experiments to study long-term learning of the interval timing and applied a Bayesian modeling approach to reveal underlying computational principles. I also collected human functional MRI data while subjects are performing the interval-timing task.
+* Many of our behaviors exhibit biases and rely on heuristics built through prior experiences. This process has been formalized by Bayesian decision theory, which has been quite successful in explaining behaviors across many different domains. One of the domains where the behavioral biases are prominent is timing and time perception, partly owing to its high measurement noises. After being trained in visual neuroscience (e.g., studying binocular rivalry), I performed human psychophysics experiments to study long-term learning of the interval timing and applied a Bayesian modeling approach to reveal underlying computational principles. Additionally, I collected human functional MRI data while subjects were performing the interval-timing task to identify brain regions involved in the interval timing.
 
 **Publications**
 * Sohn H, Lee SH (2013) Dichotomy in perceptual learning of interval timing: calibrations of mean accuracy and precision differ in specificity and time course. J Neurophysiol 109:344-362. PMID23076112
@@ -64,7 +65,7 @@ the Society for Neuroscience (2018)
 ## Previous project 3. Neuroeconomic approach to temporal discounting of monetary gain and loss
 >_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
 
-* I performed human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
+* I conducted human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
 * I collaborated with clinicians to analyze EEGs of patients with neurological and psychiatric disorders using information theory and nonlinear dynamics.
 
 **Publications**
