@@ -26,8 +26,8 @@ How does the brain make inferences based on relations between objects? To tackle
 <p style="text-align: right;">Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </p>
 
 ## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
-_Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023 & _
-_Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015 & _
+_Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
+_Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
 
 <img src="../images/postdoc_monkey.png" width="500">
 
@@ -51,7 +51,7 @@ the Society for Neuroscience
 
 
 ## Bayesian interval timing in human behavior & neuroimaging
-_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013
+_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013_
 
 <img src="../images/phd_human.png" width="500">
 
@@ -60,10 +60,10 @@ _Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National Un
 **Publications**
 * Sohn H, Lee SH (2013) Dichotomy in perceptual learning of interval timing: calibrations of mean accuracy and precision differ in specificity and time course. J Neurophysiol 109:344-362. PMID23076112
 * Brascamp JW, Sohn H, Lee SH, Blake R (2013) A monocular contribution to stimulus rivalry. Proc Natl Acad Sci U S A 110(21): 8337-8344. PMID23610414
-​​
+
 ## Neuroeconomic approach to temporal discounting of monetary gain and loss
 
-_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008
+_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
 
 * I performed human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
 * I collaborated with clinicians to analyze EEGs of patients with neurological and psychiatric disorders using information theory and nonlinear dynamics.
