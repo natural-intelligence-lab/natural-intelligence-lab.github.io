@@ -17,7 +17,7 @@ author_profile: true
   * What is the role of the prefrontal and posterior parietal cortex in processing numerical information? Are they rather independent modules or parts of a big recurrent network?
   * Do humans and non-human primates share similar neural mechanisms for magnitude processing?
 
-<img src="../images/number_project.jpg" width="500">
+<img src="../images/number_project.png" width="500">
 
 ## Project 2. Neural basis of relational inference in posterior parietal cortex
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations in collaboration with Dr. Mehrdad Jazayeri at MIT. The large-scale neural data and its dynamical-systems analysis, will shed light on how the cortical population dynamics unfold during the relational inference. We also train artificial (graph) neural networks on the relational reasoning task and “open up” to examine how similar or different biological and artificial networks are during the task. Ultimately, this project will provide an opportunity to reverse engineer natural intelligence for neuro-AI applications.
@@ -25,7 +25,7 @@ How does the brain make inferences based on relations between objects? To tackle
 <img src="../images/LyuAbbottMaimon.png" width="500">
 <p style="text-align: right;">Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </p>
 
-### Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
+## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
 _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023 & _
 _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015 & _
 
@@ -50,7 +50,7 @@ the Society for Neuroscience
 * Keshtkaran MR^, Sedler AR^, Chowdhury RH, Tandon R, Basrai D, Nguyen SL, Sohn H, Mehrdad M, Miller LE, Pandarinath C (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics. Nature Methods. 19: 1572-1577 PMID 36443486 (^Equal Contribution)
 
 
-### Bayesian interval timing in human behavior & neuroimaging
+## Bayesian interval timing in human behavior & neuroimaging
 _Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013
 
 <img src="../images/phd_human.png" width="500">
