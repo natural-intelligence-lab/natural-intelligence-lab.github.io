@@ -27,6 +27,7 @@ How does the brain make inferences based on relations between objects? To tackle
 
 ## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
 _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
+
 _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
 
 <img src="../images/postdoc_monkey.png" width="500">
