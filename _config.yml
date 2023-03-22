@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Natural Intelligence Laboratory"
 title_separator          : "|"
-name                     : &name "Natural Intelligence Laboratory"
+name                     : &name "Natural Intelligence Lab."
 description              : &description "HNatural Intelligence Laboratory"
 url                      : https://natural-intelligence-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
