@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natural Intelligence Laboratory"
+title                    : "Natural Intelligence Lab."
 title_separator          : "|"
 name                     : &name "Natural Intelligence Lab."
 description              : &description "HNatural Intelligence Laboratory"
