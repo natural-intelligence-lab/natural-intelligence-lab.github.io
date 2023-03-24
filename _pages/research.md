@@ -23,7 +23,7 @@ author_profile: true
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations in collaboration with Dr. Mehrdad Jazayeri at MIT. The large-scale neural data and its dynamical-systems analysis will shed light on how the cortical population dynamics unfold during the relational inference. We also train artificial (graph) neural networks on the relational reasoning task and open them up to examine how similar they are to biological networks. Ultimately, this project will provide an opportunity to reverse engineer natural intelligence for neuro-AI applications.
 
 <img src="../images/LyuAbbottMaimon.png" width="500">
-<p style="text-align: left;">Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </p>
+<p style="text-align: left;"><em>Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </em></p>
 
 ## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
   * _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
