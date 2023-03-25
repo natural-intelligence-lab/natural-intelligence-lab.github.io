@@ -10,7 +10,7 @@ author_profile: true
 ## Integrative approach to studying principles of natural intelligence
 * _Understanding_ natural intelligence is not easy. Therefore, we take a multidisciplinary approach - cognitive computational neuroscience - that includes careful design of cool tasks, observing behaviors from both humans and non-human primates, collecting neural data with functional neuroimaging and electrophysiology, testing predictions from computational theories and models, and comparing artificial neural networks to biological data. Of course, this is going to be a daunting task, which is exactly why we need teamwork and collaborations!
 
-## Project 1. Numerical cognition and compositionality
+## Research axis 1. Numerical cognition and compositionality
 * In this project, we will tackle the following questions:
   * How does the brain represent ecologically relevant numerical information (e.g., number of apples) and perform computations based on those representations (compositionality)?
   * Is there a neural circuit dedicated to numerical information processing? Is it common across different modalities of quantities - number, time, and space?
@@ -19,13 +19,14 @@ author_profile: true
 
 <img src="../images/number_project.png" width="700">
 
-## Project 2. Neural basis of relational inference in posterior parietal cortex
+## Research axis 2. Neural basis of relational inference in posterior parietal cortex
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations in collaboration with Dr. Mehrdad Jazayeri at MIT. The large-scale neural data and its dynamical-systems analysis will shed light on how the cortical population dynamics unfold during the relational inference. We also train artificial (graph) neural networks on the relational reasoning task and open them up to examine how similar they are to biological networks. Ultimately, this project will provide an opportunity to reverse engineer natural intelligence for neuro-AI applications.
 
 <img src="../images/LyuAbbottMaimon.png" width="500">
 <p style="text-align: left;"><em>Extended data figure 9 from Lyu, Abbott & Maimon (2022) Nature </em></p>
 
-## Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
+### Past project
+###### Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
   * _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
 
   * _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
@@ -51,7 +52,7 @@ the Society for Neuroscience (2018)
 * Keshtkaran MR^, Sedler AR^, Chowdhury RH, Tandon R, Basrai D, Nguyen SL, Sohn H, Mehrdad M, Miller LE, Pandarinath C (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics. Nature Methods. 19: 1572-1577 PMID 36443486 (^Equal Contribution)
 
 
-## Previous project 2. Bayesian interval timing in human behavior & neuroimaging
+###### Previous project 2. Bayesian interval timing in human behavior & neuroimaging
 >_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013_
 
 <img src="../images/phd_human.png" width="700">
@@ -62,7 +63,7 @@ the Society for Neuroscience (2018)
 * Sohn H, Lee SH (2013) Dichotomy in perceptual learning of interval timing: calibrations of mean accuracy and precision differ in specificity and time course. J Neurophysiol 109:344-362. PMID23076112
 * Brascamp JW, Sohn H, Lee SH, Blake R (2013) A monocular contribution to stimulus rivalry. Proc Natl Acad Sci U S A 110(21): 8337-8344. PMID23610414
 
-## Previous project 3. Neuroeconomic approach to temporal discounting of monetary gain and loss
+###### Previous project 3. Neuroeconomic approach to temporal discounting of monetary gain and loss
 >_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
 
 * I conducted human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
