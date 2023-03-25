@@ -28,7 +28,7 @@ How does the brain make inferences based on relations between objects? To tackle
 ---
 
 ## Past projects
-### Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
+###### Previous project 1. Bayesian computation through cortical latent dynamics (NHP electrophysiology)
   * _Postdoc in [Mehrdad Jazayeri's lab](https://jazlab.org/) at MIT, May 2015 - February 2023_
 
   * _Postdoc in [Daeyeol Lee's lab](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, April 2013 - April 2015_
@@ -54,7 +54,7 @@ the Society for Neuroscience (2018)
 * Keshtkaran MR^, Sedler AR^, Chowdhury RH, Tandon R, Basrai D, Nguyen SL, Sohn H, Mehrdad M, Miller LE, Pandarinath C (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics. Nature Methods. 19: 1572-1577 PMID 36443486 (^Equal Contribution)
 
 
-### Previous project 2. Bayesian interval timing in human behavior & neuroimaging
+###### Previous project 2. Bayesian interval timing in human behavior & neuroimaging
 >_Ph.D. in [Sang-hun Lee’s lab](https://www.snu-csnl.com/) at Seoul National University, March 2008 - March 2013_
 
 <img src="../images/phd_human.png" width="700">
@@ -65,7 +65,7 @@ the Society for Neuroscience (2018)
 * Sohn H, Lee SH (2013) Dichotomy in perceptual learning of interval timing: calibrations of mean accuracy and precision differ in specificity and time course. J Neurophysiol 109:344-362. PMID23076112
 * Brascamp JW, Sohn H, Lee SH, Blake R (2013) A monocular contribution to stimulus rivalry. Proc Natl Acad Sci U S A 110(21): 8337-8344. PMID23610414
 
-### Previous project 3. Neuroeconomic approach to temporal discounting of monetary gain and loss
+###### Previous project 3. Neuroeconomic approach to temporal discounting of monetary gain and loss
 >_M.S. in [Jaeseung Jeong’s lab](http://raphe.kaist.ac.kr/) at KAIST, March 2006 - February 2008_
 
 * I conducted human fMRI experiments to study how the brain processes monetary gains and losses given at different time points.
