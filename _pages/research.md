@@ -35,12 +35,12 @@ How does the brain make inferences based on relations between objects? To tackle
 
 <img src="../images/postdoc_monkey.png" width="700">
 
-######***Research questions***
+###### ***Research questions***
 * What is the neural mechanism behind behavioral biases in interval timing? (Answer: curved neural manifold)
 * Is there a common principle behind the bias generation between biological and artificial neural networks? (Answer: yes, we observed curved manifold in both networks)
 * How does the brain process multiple events that occur concurrently in time? (Answer: we don’t know yet)
 
-######***Publications***
+###### ***Publications***
 * Sohn H^, Narain D^, Meirhaeghe N^, Jazayeri M (2019) Bayesian computation through cortical latent dynamics. Neuron 103(5):934-947. PMID31320220 (^Equal Contribution).
     * highlighted in [brain inspired podcast](https://braininspired.co/podcast/113/)
     * selected as the best talk in Motor Learning and Motor Control, Official satellite meeting of
