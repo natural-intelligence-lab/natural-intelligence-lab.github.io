@@ -9,6 +9,27 @@ author_profile: true
 _Interested in working in the Natural Intelligence Lab?_
 _please contact Hansem Sohn, [my first name].[my last name] [at] gmail.com with your CV!_
 
+## Open positions
+Natural Intelligence Laboratory (https://natural-intelligence-lab.github.io/) has open positions for postdoctoral researchers and graduate students. Led by Hansem Sohn (https://hansem.github.io), the lab investigates how biological neural networks perform computation and generate intelligent behaviors. Specifically, we have two research projects :
+
+Neural population dynamics of relational inference
+How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations. The prospective postdoc/student is expected to analyze the data to study how the cortical population dynamics unfold during the relational inference. The data was collected using high-density linear probes (up to two Neuropixels) and will also provide a unique opportunity to study the role of cortical laminar structures. Ideal candidates will have a strong background in analysis of electrophysiology data, advanced statistical methods, and neural network modeling but opportunities to learn these will be provided. This will be a collaboration with Dr. Mehrdad Jazayeri at MIT.
+
+Cortical processing of domain-general numerical information
+In this project, we will tackle the following questions.
+- How does the brain represent ecologically relevant numerical information (e.g., number of apples) and perform computations based on those representations in a compositional manner?
+- Is there a neural circuit dedicated to numerical information processing, and is it common across different modalities of quantities such as number, time, and space?
+- What is the role of the prefrontal and posterior parietal cortex in processing numerical information? Are they rather independent modules or parts of a big recurrent network?
+- Do humans and non-human primates share similar neural mechanisms for magnitude processing?
+
+We will use multiple approaches including careful design of behavioral tasks, computational modeling with Bayesian theory and artificial neural networks, large-scale electrophysiology, and state-of-the-art fMRI for both humans and non-human primates. Ideal candidates have extensive experience in more than one of the approaches but the lab will provide opportunities to learn new techniques.
+
+Research topics are not limited to the above-mentioned projects and open to new proposals. Competitive salary or stipend (together with the tuition for graduate students) will be provided.
+
+The lab is supported by Institute for Basic Science (IBS), Center for Neuroscience Imaging Research (CNIR), which houses multi-species animal facilities, multiple MRI scanners (3T, 7T), and cutting-edge neurophysiology systems. We offer a highly open, interactive, and collaborative research environment to promote innovative science. Sungkyunkwan university is a top-tier higher education in South Korea, located near its vibrant capital, Seoul (30 minutes drive).
+
+If you are interested in working in the lab, please send a cover letter (stating why you are interested) and your CV/resume to hansem [at] g.skku.edu. The lab is committed to promote diversity and an inclusive environment. We value passion, strong work ethic (get things done!), scientific rigor and integrity, creativity (think outside the box!), and independence.
+
 ## Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d406290.9118283268!2d126.975539!3d37.291632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42b7d58a24f7%3A0x9e67796ab3b20680!2sN%20Center%2C%20Sungkyunkwan%20University!5e0!3m2!1sen!2skr!4v1678148159471!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
