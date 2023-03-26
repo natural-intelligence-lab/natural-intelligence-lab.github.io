@@ -21,6 +21,7 @@ In this project, we will tackle the following questions.
 - Is there a neural circuit dedicated to numerical information processing, and is it common across different modalities of quantities such as number, time, and space?
 - What is the role of the prefrontal and posterior parietal cortex in processing numerical information? Are they rather independent modules or parts of a big recurrent network?
 - Do humans and non-human primates share similar neural mechanisms for magnitude processing?
+
 We will use multiple approaches including careful design of behavioral tasks, computational modeling with Bayesian theory and artificial neural networks, large-scale electrophysiology, and state-of-the-art fMRI for both humans and non-human primates. Ideal candidates have extensive experience in more than one of the approaches but the lab will provide opportunities to learn new techniques.
 
 Research topics are not limited to the above-mentioned projects and open to new proposals. Competitive salary or stipend (together with the tuition for graduate students) will be provided.
