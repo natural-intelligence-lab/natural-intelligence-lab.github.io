@@ -24,11 +24,11 @@ In this project, we will tackle the following questions.
 
 We will use multiple approaches including careful design of behavioral tasks, computational modeling with Bayesian theory and artificial neural networks, large-scale electrophysiology, and state-of-the-art fMRI for both humans and non-human primates. Ideal candidates have extensive experience in more than one of the approaches but the lab will provide opportunities to learn new techniques.
 
-Research topics are not limited to the above-mentioned projects and open to new proposals. Competitive salary or stipend (together with the tuition for graduate students) will be provided.
+** Research topics are not limited to the above-mentioned projects and open to new proposals. ** Competitive salary or stipend (together with the tuition for graduate students) will be provided.
 
 The lab is supported by Institute for Basic Science (IBS), Center for Neuroscience Imaging Research (CNIR), which houses multi-species animal facilities, multiple MRI scanners (3T, 7T), and cutting-edge neurophysiology systems. We offer a highly open, interactive, and collaborative research environment to promote innovative science. Sungkyunkwan university is a top-tier higher education in South Korea, located near its vibrant capital, Seoul (30 minutes drive).
 
-If you are interested in working in the lab, please send a cover letter (stating why you are interested) and your CV/resume to hansem [at] g.skku.edu. The lab is committed to promote diversity and an inclusive environment. We value passion, strong work ethic (get things done!), scientific rigor and integrity, creativity (think outside the box!), and independence.
+If you are interested in working in the lab, please send a cover letter (stating why you are interested) and your CV/resume to Hansem Sohn, [my first name].[my last name] [at] gmail.com with your CV. The lab is committed to promote diversity and an inclusive environment. We value passion, strong work ethic (get things done!), scientific rigor and integrity, creativity (think outside the box!), and independence.
 
 ## Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d406290.9118283268!2d126.975539!3d37.291632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42b7d58a24f7%3A0x9e67796ab3b20680!2sN%20Center%2C%20Sungkyunkwan%20University!5e0!3m2!1sen!2skr!4v1678148159471!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
