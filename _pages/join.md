@@ -10,7 +10,7 @@ _Interested in working in the Natural Intelligence Lab?_
 _please contact Hansem Sohn, [my first name].[my last name] [at] gmail.com with your CV!_
 
 ## Open positions
-Natural Intelligence Laboratory (https://natural-intelligence-lab.github.io/) has open positions for postdoctoral researchers and graduate students. Led by Hansem Sohn (https://hansem.github.io), the lab investigates how biological neural networks perform computation and generate intelligent behaviors. Specifically, we have two research projects :
+Natural Intelligence Laboratory has open positions for postdoctoral researchers and graduate students. Led by [Hansem Sohn](https://hansem.github.io), the lab investigates how biological neural networks perform computation and generate intelligent behaviors. Specifically, we have two research projects :
 
 ### 1. Neural population dynamics of relational inference
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations. The prospective postdoc/student is expected to analyze the data to study how the cortical population dynamics unfold during the relational inference. The data was collected using high-density linear probes (up to two Neuropixels) and will also provide a unique opportunity to study the role of cortical laminar structures. Ideal candidates will have a strong background in analysis of electrophysiology data, advanced statistical methods, and neural network modeling but opportunities to learn these will be provided. This will be a collaboration with Dr. Mehrdad Jazayeri at MIT.
