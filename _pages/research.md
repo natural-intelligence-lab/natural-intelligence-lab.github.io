@@ -20,6 +20,9 @@ author_profile: true
 <img src="../images/number_project.png" width="700">
 
 ## Research direction 2. Neural basis of relational inference in posterior parietal cortex
+
+<img src="../images/analogy_task.png" width="500">
+
 How does the brain make inferences based on relations between objects? To tackle this question, we have collected electrophysiology data from the posterior parietal cortex while animals performed a visual search task based on object relations in collaboration with Dr. Mehrdad Jazayeri at MIT. The large-scale neural data and its dynamical-systems analysis will shed light on how the cortical population dynamics unfold during the relational inference. We also train artificial (graph) neural networks on the relational reasoning task and open them up to examine how similar they are to biological networks. Ultimately, this project will provide an opportunity to reverse engineer natural intelligence for neuro-AI applications.
 
 <img src="../images/LyuAbbottMaimon.png" width="500">
