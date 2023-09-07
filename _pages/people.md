@@ -15,13 +15,13 @@ _Geek & Dad (alledgely INFP)_
 ### Min-jun Han
 _Ph.D. candidate_
 
-## Nahyun Lee
+### Nahyun Lee
 _Master's student_
 
-## Somang Paeng
+### Somang Paeng
 _Post-master researcher_
 
-## Su-jin Ahn
+### Su-jin Ahn
 _Post-master researcher_
 
 ### YOU
