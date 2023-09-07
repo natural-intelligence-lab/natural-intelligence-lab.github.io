@@ -17,7 +17,7 @@ We aim to solve the mystery of how the brain generates complex and intelligent b
 
 **Recent Updates**
 
-* September 2023: Sujin Ahn joined NILab (n=5)! Welcome! And hansem gave a talk at Korean Soceity for Brain and Neural Sciences (KSBNS).  
+* September 2023: Sujin Ahn joined NILab (n=5)! Welcome! And hansem gave a talk at Korean Society for Brain and Neural Sciences (KSBNS).  
 * June 2023: Nahyun Lee & Somang Paeng joined NILab (n=4)! Welcome! We can still fit in a car!  
 * May 2023: Min-jun Han joined NILab (n=2)! Welcome!  
 * April 2023: Hansem gave a talk at Korean Human Brain Mapping (KHBM).  
