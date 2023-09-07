@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-September 2023: Sujin Ahn joined NILab (n=5)! Welcome! And hansem gave a talk at Korean Soceity for Brain and Neural Sciences (KSBNS) where NILab also had fun!
+September 2023: Sujin Ahn joined NILab (n=5)! Welcome! And hansem gave a talk at Korean Society for Brain and Neural Sciences (KSBNS) where NILab also had fun in Busan!
 
 September 2023 (month 7): We all go to MR-compatible world. Thanks, Min-jun for testing it out!  
 
