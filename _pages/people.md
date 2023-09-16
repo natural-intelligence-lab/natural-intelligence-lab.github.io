@@ -13,7 +13,9 @@ _Geek & Dad (alledgely INFP)_
 <img src="../images/HansemSohn_20170406_00_profile.jpg" width="150">
 
 ### Min-jun Han
-_Ph.D. candidate_
+_Ph.D. candidate (INFJ)_
+
+<img src="../images/minjun.jpg" width="150">
 
 ### Nahyun Lee
 _Master's student_
