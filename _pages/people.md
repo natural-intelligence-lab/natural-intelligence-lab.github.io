@@ -13,7 +13,7 @@ _Geek & Dad (alledgely INFP)_
 <img src="../images/HansemSohn_20170406_00_profile.jpg" width="150">
 
 ### Min-jun Han
-_Ph.D. candidate (INFJ)_
+_Ph.D. candidate & a.k.a CNIR insider/인싸 (INFJ)_
 
 <img src="../images/minjun.jpg" width="150">
 
