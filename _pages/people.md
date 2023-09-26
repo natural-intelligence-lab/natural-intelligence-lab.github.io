@@ -18,7 +18,9 @@ _Ph.D. candidate & a.k.a CNIR insider/인싸 (INFJ)_
 <img src="../images/minjun.jpg" width="150">
 
 ### Nahyun Lee
-_Master's student_
+_Master's student & Endless wonderer & Professional foodie (ENTP)_
+
+<img src="../images/nahyun" width="150">
 
 ### Somang Paeng
 _Post-master researcher_
