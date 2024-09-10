@@ -9,63 +9,63 @@ author_profile: true
 
 June 2024: What do you see?
 
-<img src="../images/chair_mri.jpeg" width="150">
+<img src="../images/chair_mri.jpg" width="150">
 
 June 2024: What do you see?
 
-<img src="../images/chair_mri.jpeg" width="150">
+<img src="../images/chair_mri.jpg" width="150">
 
 June 2024: What do you see?
 
-<img src="../images/chair_mri.jpeg" width="150">
+<img src="../images/chair_mri.jpg" width="150">
 
 June 2024: Congrats! Dr. Han!
 
-<img src="../images/defense.jpeg" width="150">
+<img src="../images/defense.jpg" width="150">
 
 April 2024: Who's the best drill breaker?!
 
-<img src="../images/drill.jpeg" width="150">
+<img src="../images/drill.jpg" width="150">
 
 April 2024: NILab won!
 
-<img src="../images/bowling1.jpeg" width="150">
+<img src="../images/bowling1.jpg" width="150">
 
 April 2024: Who's the best drill breaker?!
 
-<img src="../images/drill.jpeg" width="150">
+<img src="../images/drill.jpg" width="150">
 
 April 2024: Good spring day!
 
-<img src="../images/spring.jpeg" width="150">
+<img src="../images/spring.jpg" width="150">
 
 March 2024: Creepy hansem!
 
-<img src="../images/creepy.jpeg" width="150">
+<img src="../images/creepy.jpg" width="150">
 
 February 2024: Birthday party for two people!
 
-<img src="../images/birthday.jpeg" width="150">
+<img src="../images/birthday.jpg" width="150">
 
 January 2024: Ski trip!
 
-<img src="../images/ski.jpeg" width="150">
+<img src="../images/ski.jpg" width="150">
 
 December 2023: End of white board!
 
-<img src="../images/end_of_year_party.jpeg" width="150">
+<img src="../images/end_of_year_party.jpg" width="150">
 
 December 2023: End of year party!
 
-<img src="../images/end_of_year_party.jpeg" width="150">
+<img src="../images/end_of_year_party.jpg" width="150">
 
 November 2023: We got a first snow!
 
-<img src="../images/first_snow.jpeg" width="150">
+<img src="../images/first_snow.jpg" width="150">
 
 November 2023: We got a new chair!
 
-<img src="../images/new_chair.jpeg" width="150">
+<img src="../images/new_chair.jpg" width="150">
 
 September 2023: Sujin Ahn joined NILab (n=5)! Welcome! And hansem gave a talk at Korean Society for Brain and Neural Sciences (KSBNS) where NILab also had fun in Busan!
 
