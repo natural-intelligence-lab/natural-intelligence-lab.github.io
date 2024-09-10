@@ -39,7 +39,7 @@ January 2024: Ski trip!
 
 <img src="../images/ski.jpg" width="150">
 
-December 2023: End of white board!
+December 2023: End of year white board!
 
 <img src="../images/white_board.jpg" width="150">
 
