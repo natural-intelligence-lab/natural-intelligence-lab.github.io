@@ -34,6 +34,9 @@ _Master's student_
 ### Jimin Lee
 _Combined Bachelor & Master's student_
 
+### Arghavan Bazigaran
+_Master's student_
+
 ### YOU
   * see [job ad](https://natural-intelligence-lab.github.io/join)
 
