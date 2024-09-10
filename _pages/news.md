@@ -41,7 +41,7 @@ January 2024: Ski trip!
 
 December 2023: End of white board!
 
-<img src="../images/end_of_year_party.jpg" width="150">
+<img src="../images/white_board.jpg" width="150">
 
 December 2023: End of year party!
 
