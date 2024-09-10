@@ -23,10 +23,6 @@ April 2024: NILab won!
 
 <img src="../images/bowling1.jpg" width="150">
 
-April 2024: Who's the best drill breaker?!
-
-<img src="../images/drill.jpg" width="150">
-
 April 2024: Good spring day!
 
 <img src="../images/spring.jpg" width="150">
