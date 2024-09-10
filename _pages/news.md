@@ -11,14 +11,6 @@ June 2024: What do you see?
 
 <img src="../images/chair_mri.jpg" width="150">
 
-June 2024: What do you see?
-
-<img src="../images/chair_mri.jpg" width="150">
-
-June 2024: What do you see?
-
-<img src="../images/chair_mri.jpg" width="150">
-
 June 2024: Congrats! Dr. Han!
 
 <img src="../images/defense.jpg" width="150">
