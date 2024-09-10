@@ -13,20 +13,26 @@ _Geek & Dad (alledgely INFP)_
 <img src="../images/HansemSohn_20170406_00_profile.jpg" width="150">
 
 ### Min-jun Han
-_Ph.D. candidate & a.k.a CNIR insider/인싸 (INFJ)_
+_Postdoc & a.k.a CNIR insider/인싸 (INFJ)_
 
 <img src="../images/minjun.jpg" width="150">
-
-### Nahyun Lee
-_Master's student & Endless wonderer & Professional foodie (ENTP)_
-
-<img src="../images/nahyun.jpg" width="150">
 
 ### Somang Paeng
 _Post-master researcher_
 
 ### Su-jin Ahn
 _Post-master researcher_
+
+### Nahyun Lee
+_Master's student & Endless wonderer & Professional foodie (ENTP)_
+
+<img src="../images/nahyun.jpg" width="150">
+
+### Joohyun Lee
+_Master's student_
+
+### Jimin Lee
+_Combined Bachelor & Master's student_
 
 ### YOU
   * see [job ad](https://natural-intelligence-lab.github.io/join)
