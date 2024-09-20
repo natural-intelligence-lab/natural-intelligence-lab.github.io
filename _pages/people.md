@@ -20,7 +20,10 @@ _Postdoc & a.k.a CNIR insider/인싸 (INFJ)_
 ### Somang Paeng
 _Post-master researcher_
 
-### Su-jin Ahn
+### Su-Jin An
+_Post-master researcher_
+
+### Shin-Young An
 _Post-master researcher_
 
 ### Nahyun Lee
