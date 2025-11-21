@@ -21,7 +21,7 @@ _Su-Jin An_
 
 _Somang Paeng_
 
-[paper](https://www.nature.com/articles/s41598-024-59815-9)
+[google scholar](https://scholar.google.ca/citations?user=McgwgyMAAAAJ&hl=en&oi=ao)
 
 <img src="../images/SP.PNG" width="150">
 
