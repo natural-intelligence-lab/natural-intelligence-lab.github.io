@@ -19,6 +19,8 @@ August 2025: NILAB rocks @ KSBNS & retreat
 
 <img src="../images/Aug25.jpeg" width="150">
 
+<img src="../images/Aug25_2.jpeg" width="150">
+
 May 2025: Embarrassed Hansem at 5/15 event
 
 <img src="../images/May25.jpg" width="150">
