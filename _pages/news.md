@@ -17,7 +17,7 @@ September 2025: fall semester opened with burger & fries
 
 August 2025: NILAB rocks @ KSBNS & retreat
 
-<img src="../images/Aug25.jpg" width="150">
+<img src="../images/Aug25.jpeg" width="150">
 
 May 2025: Embarrassed Hansem at 5/15 event
 
@@ -25,7 +25,7 @@ May 2025: Embarrassed Hansem at 5/15 event
 
 April 2025: Min-jun’s paper got accepted
 
-<img src="../images/Apr25.jpg" width="150">
+<img src="../images/Apr25.jpeg" width="150">
 
 March 2025: start of spring semester!
 
@@ -33,7 +33,7 @@ March 2025: start of spring semester!
 
 January 2025: NILAB@CNIR event
 
-<img src="../images/Jan25.jpg" width="150">
+<img src="../images/Jan25.jpeg" width="150">
 
 December 2024: NILAB loves skiing
 
@@ -41,15 +41,15 @@ December 2024: NILAB loves skiing
 
 September 2024: Hansem gave a talk at KAIST
 
-<img src="../images/Sep24.jpg" width="150">
+<img src="../images/Sep24.jpeg" width="150">
 
 August 2024: NILAB is good at teaching each other
 
-<img src="../images/Aug24.jpg" width="150">
+<img src="../images/Aug24.jpeg" width="150">
 
 July 2024: Hansem inside scanner
 
-<img src="../images/Jul24.jpg" width="150">
+<img src="../images/Jul24.jpeg" width="150">
 
 June 2024: What do you see?
 
