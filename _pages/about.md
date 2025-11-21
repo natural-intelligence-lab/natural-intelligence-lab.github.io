@@ -17,17 +17,12 @@ We aim to solve the mystery of how the brain generates complex and intelligent b
 
 **Recent Updates**
 
-* September 2024: Arghavan Bazigaran joined NILab (n=8)! Welcome!  
-* June 2024: NILab had fun at Organization for Human Brain Mapping (OHBM).
-* March 2024: Jimin Lee joined the NILab (n=7)! Welcome!  
-* January 2024: Joohyun Lee joined NILab (n=6)! Welcome!  
-* October 2023: Hansem gave a talk at Seoul National University, Dept. Brain & Cognitive Sciences.
-* September 2023: Sujin An joined NILab (n=5)! Welcome! And hansem gave a talk at Korean Society for Brain and Neural Sciences (KSBNS).  
-* June 2023: Nahyun Lee & Somang Paeng joined NILab (n=4)! Welcome! We can still fit in a car!  
-* May 2023: Min-jun Han joined NILab (n=2)! Welcome!  
-* April 2023: Hansem gave a talk at Korean Human Brain Mapping (KHBM).  
-* March 2023: Hansem gave a talk at artificial vision seminar series in Korea Institute of Science and Technology (KIST).  
-* February 2023: We (n=1) are open for business!
+* November 2025: Somang and Shin-young presented at Society for Neuroscience (SFN) meeting. Somang and Su-jin will be in Montreal to collaborate with Taylor Webb@MILA.
+* October 2025: Arghavan’s paper is accepted at Neural Information Processing Systems (NeurIPS) MATH-AI workshop. Congrats!
+* September 2025: Min-jun joins National Primate Research Center as a postdoc. All the best to him!
+* August 2025: Hansem got his first grant as a PI. Su-jin also got a government stipend for doctoral students. Congrats!
+* July 2025: Min-jun’s stimulation-fMRI paper on sensorimotor cortex is out in Progress in Neurobiology. Hansem received an early career award from Korean Society for Computational Neuroscience.
+* January 2025: Hansem’s mental pong paper is out in Nature Communications.
 ![Ncenter](../images/Ncenter.png)
 
 
