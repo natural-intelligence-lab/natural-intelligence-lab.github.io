@@ -28,7 +28,7 @@ _Somang Paeng_
 ### Post-master researcher
 _Shin-Young An_
 
-[paper]([https://www.nature.com/articles/s41598-024-59815-9](https://www.sciencedirect.com/science/article/pii/S030100822400087X)
+[paper][https://www.nature.com/articles/s41598-024-59815-9](https://www.sciencedirect.com/science/article/pii/S030100822400087X)
 
 <img src="../images/SYA.png" width="150">
 
