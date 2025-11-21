@@ -9,7 +9,11 @@ author_profile: true
 
 _Full publication list on [Google Scholar](https://scholar.google.com/citations?user=1TWKOoIAAAAJ&hl=en), [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn), [ORCID](https://orcid.org/0000-0001-8593-7473), [ResearchGate](https://www.researchgate.net/profile/Hansem-Sohn)_
 
-[19] Rajalingham R^, <em>__Sohn H__</em>^, Jazayeri M (in revision) Dynamic tracking of objects in the macaque dorsomedial frontal cortex. https://doi.org/10.1101/2022.06.24.497529 (^Equal Contribution)
+[21] Bazigaran A, <em>__Sohn H__</em>^ (2025) Concept Generalization in Humans and Large Language Models: Insights from the Number Game. NeurIPS (Math-AI workshop).
+ 
+[20] Han MJ^, Oh Y^, Ann Y, Kang S, Baeg E, Hong SJ, <em>__Sohn H__</em>^, Kim SG^ (2025) Whole-brain effective connectivity of the sensorimotor system using 7T fMRI with electrical microstimulation in non-human primates. Progress in Neurobiology (IF: 6.7, JCR 9.59%). 250:102760 PMID 40280291 (^Equal Contribution)
+ 
+[19] Rajalingham R^, <em>__Sohn H__</em>^, Jazayeri M (2025) Dynamic tracking of objects in the macaque dorsomedial frontal cortex. Nature Communications (IF: 14.7) 16 (1), 346 PMID 39746908 (^Equal Contribution)
 
 [18] Beiran M^, Meirhaeghe N^, <em>__Sohn H__</em>, Jazayeri M, Ostojic S (2023) Parametric control of flexible timing through low-dimensional neural manifolds. Neuron. S0896-6273(22)01089-3. https://doi.org/10.1016/j.neuron.2022.12.016. PMID 36640766 (^Equal Contribution)
 
