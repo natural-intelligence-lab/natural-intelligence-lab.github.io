@@ -45,6 +45,16 @@ _Arghavan Bazigaran_
 
 <img src="../images/AB.JPG" width="150">
 
+### Undergraduate student
+_Yelyn Lee_
+
+_Seongha Choi_
+
+_Hyujun Gu_
+
+### Admin
+_Joohee Oh_
+
 ### Alumni
 _Min-jun Han_
 
