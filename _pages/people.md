@@ -12,33 +12,33 @@ _Geek & Dad (alledgely INFP)_
 
 <img src="../images/HansemSohn_20170406_00_profile.jpg" width="150">
 
-### Min-jun Han
-_Postdoc & a.k.a CNIR insider/인싸 (INFJ)_
+### Ph.D. student
+_Su-Jin An_
+[google scholar](https://scholar.google.com/citations?user=7HxZ53MAAAAJ&hl=en&oi=ao)
+<img src="../images/SJA.JPG" width="150">
 
-<img src="../images/minjun.jpg" width="150">
+_Somang Paeng_
+[paper](https://www.nature.com/articles/s41598-024-59815-9)
+<img src="../images/SP.PNG" width="150">
 
-### Somang Paeng
-_Post-master researcher_
+### Post-master researcher
+_Shin-Young An_
+[paper]([https://www.nature.com/articles/s41598-024-59815-9](https://www.sciencedirect.com/science/article/pii/S030100822400087X)
+<img src="../images/SYA.png" width="150">
 
-### Su-Jin An
-_Post-master researcher_
+### Master student
+_Joohyun Lee_
+<img src="../images/JHL.PNG" width="150">
 
-### Shin-Young An
-_Post-master researcher_
+_Jimin Lee_
+<img src="../images/JML.PNG" width="150">
 
-### Nahyun Lee
-_Master's student & Endless wonderer & Professional foodie (ENTP)_
+_Arghavan Bazigaran_
+<img src="../images/AB.JPG" width="150">
 
-<img src="../images/nahyun.jpg" width="150">
-
-### Joohyun Lee
-_Master's student_
-
-### Jimin Lee
-_Combined Bachelor & Master's student_
-
-### Arghavan Bazigaran
-_Master's student_
+### Alumni
+_Min-jun Han_
+_Nahyun Lee_
 
 ### YOU
   * see [job ad](https://natural-intelligence-lab.github.io/join)
