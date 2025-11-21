@@ -47,6 +47,7 @@ _Arghavan Bazigaran_
 
 ### Alumni
 _Min-jun Han_
+
 _Nahyun Lee_
 
 ### YOU
