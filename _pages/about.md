@@ -17,7 +17,8 @@ We aim to solve the mystery of how the brain generates complex and intelligent b
 
 **Recent Updates**
 
-* November 2025: Somang and Shin-young presented at Society for Neuroscience (SFN) meeting. Somang and Su-jin will be in Montreal to collaborate with Taylor Webb@MILA.
+* May 2026: Su-Jin got awarded the Jungbong Neuroscience Fellowship (중봉뇌과학펠로우십). Congrats!
+* November 2025: Somang and Shin-young presented at Society for Neuroscience (SFN) meeting. Somang and Su-Jin will be in Montreal to collaborate with Taylor Webb@MILA.
 * October 2025: Arghavan’s paper is accepted at Neural Information Processing Systems (NeurIPS) MATH-AI workshop. Congrats!
 * September 2025: Min-jun joins National Primate Research Center as a postdoc. All the best to him!
 * August 2025: Hansem got his first grant as a PI. Su-jin also got a government stipend for doctoral students. Congrats!

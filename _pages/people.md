@@ -17,13 +17,17 @@ _Su-Jin An_
 
 [google scholar](https://scholar.google.com/citations?user=7HxZ53MAAAAJ&hl=en&oi=ao)
 
-<img src="../images/SJA.JPG" width="150">
+<img src="../images/SA_profilepic.png" width="150">
 
 _Somang Paeng_
 
 [google scholar](https://scholar.google.ca/citations?user=McgwgyMAAAAJ&hl=en&oi=ao)
 
 <img src="../images/SP.PNG" width="150">
+
+_Jun Seo Hwang_
+
+<img src="../images/JSH.PNG" width="150">
 
 ### Post-master researcher
 _Shin-Young An_
