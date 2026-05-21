@@ -27,7 +27,7 @@ _Somang Paeng_
 
 _Jun Seo Hwang_
 
-<img src="../images/JSH.PNG" width="150">
+<img src="../images/JSH.png" width="150">
 
 ### Post-master researcher
 _Shin-Young An_

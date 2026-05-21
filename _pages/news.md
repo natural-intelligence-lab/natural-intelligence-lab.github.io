@@ -9,16 +9,30 @@ author_profile: true
 
 May 2026: Su-Jin was awarded the [Jungbong Neuroscience Fellowship](https://blog.naver.com/skkupr1398/224292061871)! Congrats!
 
-<div style="display: flex; gap: 10px;">
-  <img src="../images/중봉1.jpeg" style="height:220px; width:auto;">
-  <img src="../images/중봉2.jpg" style="height:220px; width:auto;">
+<div style="display:flex; gap:10px; align-items:center;">
+  <div style="height:220px;">
+    <img src="../images/중봉1.jpeg"
+         style="height:100%; width:auto; max-width:none;">
+  </div>
+
+  <div style="height:220px;">
+    <img src="../images/중봉2.jpg"
+         style="height:100%; width:auto; max-width:none;">
+  </div>
 </div>
 
 February 2026: starting the spring semester with good food!
 
-<div style="display: flex; gap: 10px;">
-  <img src="../images/260225.jpg" style="height:220px; width:auto;">
-  <img src="../images/260225.jpeg" style="height:220px; width:auto;">
+<div style="display:flex; gap:10px; align-items:center;">
+  <div style="height:220px;">
+    <img src="../images/260225.jpeg"
+         style="height:100%; width:auto; max-width:none;">
+  </div>
+
+  <div style="height:220px;">
+    <img src="../images/260225.jpg"
+         style="height:100%; width:auto; max-width:none;">
+  </div>
 </div>
 
 November 2025: linked but divided posters @ SFN
