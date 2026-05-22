@@ -7,65 +7,121 @@ author_profile: true
 
 {% include base_path %}
 
-### [Hansem Sohn: PI](https://hansem.github.io/)
-_Geek & Dad (alledgely INFP)_
+<div class="people-page">
 
-<img src="../images/HansemSohn_20170406_00_profile.jpg" width="150">
+  <!-- PI -->
+  <div class="people-pi-wrapper">
+    <div class="person-card person-card--pi">
+      <img src="../images/HansemSohn_20170406_00_profile.jpg" alt="Hansem Sohn" class="person-avatar person-avatar--pi" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+      <div class="person-initials person-initials--pi" style="display:none">HS</div>
+      <span class="person-badge">Principal Investigator</span>
+      <p class="person-name person-name--pi">Hansem Sohn</p>
+      <p class="person-note">Geek &amp; Dad (allegedly INFP)</p>
+      <a class="person-link" href="https://hansem.github.io/" target="_blank" rel="noopener">hansem.github.io ↗</a>
+    </div>
+  </div>
 
-### Ph.D. student
-_Su-Jin An_
+  <!-- PhD Students -->
+  <section class="people-section">
+    <h2 class="people-section-title">Ph.D. students</h2>
+    <div class="people-grid">
 
-[google scholar](https://scholar.google.com/citations?user=7HxZ53MAAAAJ&hl=en&oi=ao)
+      <div class="person-card">
+        <img src="../images/SA_profilepic.png" alt="Su-Jin An" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">SA</div>
+        <p class="person-name">Su-Jin An</p>
+        <a class="person-link" href="https://scholar.google.com/citations?user=7HxZ53MAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar ↗</a>
+      </div>
 
-<img src="../images/SA_profilepic.png" width="150">
+      <div class="person-card">
+        <img src="../images/SP.PNG" alt="Somang Paeng" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">SP</div>
+        <p class="person-name">Somang Paeng</p>
+        <a class="person-link" href="https://scholar.google.ca/citations?user=McgwgyMAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar ↗</a>
+      </div>
 
-_Somang Paeng_
+      <div class="person-card">
+        <img src="../images/JSH.png" alt="Jun Seo Hwang" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">JH</div>
+        <p class="person-name">Jun Seo Hwang</p>
+      </div>
 
-[google scholar](https://scholar.google.ca/citations?user=McgwgyMAAAAJ&hl=en&oi=ao)
+    </div>
+  </section>
 
-<img src="../images/SP.PNG" width="150">
+  <!-- Post-master -->
+  <section class="people-section">
+    <h2 class="people-section-title">Post-master researcher</h2>
+    <div class="people-grid">
 
-_Jun Seo Hwang_
+      <div class="person-card">
+        <img src="../images/SYA.png" alt="Shin-Young An" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">SY</div>
+        <p class="person-name">Shin-Young An</p>
+        <a class="person-link" href="https://www.sciencedirect.com/science/article/pii/S030100822400087X" target="_blank" rel="noopener">Paper ↗</a>
+      </div>
 
-<img src="../images/JSH.png" width="150">
+    </div>
+  </section>
 
-### Post-master researcher
-_Shin-Young An_
+  <!-- Master Students -->
+  <section class="people-section">
+    <h2 class="people-section-title">Master students</h2>
+    <div class="people-grid">
 
-[paper](https://www.sciencedirect.com/science/article/pii/S030100822400087X)
+      <div class="person-card">
+        <img src="../images/JHL.PNG" alt="Joohyun Lee" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">JL</div>
+        <p class="person-name">Joohyun Lee</p>
+      </div>
 
-<img src="../images/SYA.png" width="150">
+      <div class="person-card">
+        <img src="../images/JML.PNG" alt="Jimin Lee" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">JL</div>
+        <p class="person-name">Jimin Lee</p>
+      </div>
 
-### Master student
-_Joohyun Lee_
+      <div class="person-card">
+        <img src="../images/AB.JPG" alt="Arghavan Bazigaran" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">AB</div>
+        <p class="person-name">Arghavan Bazigaran</p>
+      </div>
 
-<img src="../images/JHL.PNG" width="150">
+    </div>
+  </section>
 
-_Jimin Lee_
+  <!-- Undergrads -->
+  <section class="people-section">
+    <h2 class="people-section-title">Undergraduate students</h2>
+    <div class="people-pills">
+      <span class="people-pill">Yelyn Lee</span>
+      <span class="people-pill">Seongha Choi</span>
+      <span class="people-pill">Hyujun Gu</span>
+    </div>
+  </section>
 
-<img src="../images/JML.PNG" width="150">
+  <!-- Admin -->
+  <section class="people-section">
+    <h2 class="people-section-title">Admin</h2>
+    <div class="people-pills">
+      <span class="people-pill">Joohee Oh</span>
+    </div>
+  </section>
 
-_Arghavan Bazigaran_
+  <!-- Alumni -->
+  <section class="people-section">
+    <h2 class="people-section-title">Alumni</h2>
+    <div class="people-pills">
+      <span class="people-pill people-pill--alumni">Min-jun Han</span>
+      <span class="people-pill people-pill--alumni">Nahyun Lee</span>
+    </div>
+  </section>
 
-<img src="../images/AB.JPG" width="150">
+  <!-- Join -->
+  <section class="people-join">
+    <p class="people-join-title">Interested in joining?</p>
+    <p class="people-join-sub">The lab is committed to diversity and an inclusive environment.</p>
+    <a class="people-join-link" href="https://natural-intelligence-lab.github.io/join" target="_blank" rel="noopener">See open positions ↗</a>
+  </section>
 
-### Undergraduate student
-_Yelyn Lee_
-
-_Seongha Choi_
-
-_Hyujun Gu_
-
-### Admin
-_Joohee Oh_
-
-### Alumni
-_Min-jun Han_
-
-_Nahyun Lee_
-
-### YOU
-  * see [job ad](https://natural-intelligence-lab.github.io/join)
-
-> The lab is committed to promote diversity and inclusive environment!
-![science_is_real](../images/SCIENCE_IS_REAL.jpeg)
+</div>
