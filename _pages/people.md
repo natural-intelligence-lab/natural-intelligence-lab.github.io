@@ -124,4 +124,7 @@ author_profile: true
     <a class="people-join-link" href="https://natural-intelligence-lab.github.io/join" target="_blank" rel="noopener">See open positions ↗</a>
   </section>
 
+  <!-- Science is real banner -->
+  <img src="../images/SCIENCE_IS_REAL.jpeg" alt="Science is real">
+
 </div>
