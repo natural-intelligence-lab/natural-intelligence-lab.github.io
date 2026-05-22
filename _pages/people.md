@@ -120,11 +120,10 @@ author_profile: true
   <!-- Join -->
   <section class="people-join">
     <p class="people-join-title">Interested in joining?</p>
+    <img src="../images/SCIENCE_IS_REAL.jpeg" alt="Science is real" style="width:100%; border-radius:8px;" >
     <p class="people-join-sub">The lab is committed to diversity and an inclusive environment.</p>
     <a class="people-join-link" href="https://natural-intelligence-lab.github.io/join" target="_blank" rel="noopener">See open positions ↗</a>
   </section>
 
-  <!-- Science is real banner -->
-  <img src="../images/SCIENCE_IS_REAL.jpeg" alt="Science is real">
 
 </div>
