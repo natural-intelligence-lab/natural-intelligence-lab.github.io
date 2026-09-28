@@ -34,8 +34,8 @@ author_profile: true
         <p>Congrats to Joohyun and Arghavan for the master's degree!</p>
         <div class="news-media">
           <img src="../images/260825_graduation.jpg">
-          <img src="../images/260825_graduation_JHL.jpg">
-          <img src="../images/260825_graduation_AB.jpg">
+          <img src="../images/260825_graduationJHL.jpg">
+          <img src="../images/260825_graduationAB.jpg">
         </div>
       </div>
     </div>
@@ -45,8 +45,8 @@ author_profile: true
       <div class="news-content">
         <p>NIlab had fun at ICML 2026 @ COEX, SEOUL!</p>
         <div class="news-media">
-          <img src="../images/26707_ICML.jpg">
-          <img src="../images/26707_ICML2.jpeg">
+          <img src="../images/260707_ICML.jpg">
+          <img src="../images/260707_ICML2.jpeg">
         </div>
       </div>
       <div class="news-content">
