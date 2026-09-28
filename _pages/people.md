@@ -55,21 +55,6 @@ author_profile: true
     </div>
   </section>
 
-  <!-- Post-master -->
-  <section class="people-section">
-    <h2 class="people-section-title">Post-master researcher</h2>
-    <div class="people-grid">
-
-      <div class="person-card">
-        <img src="../images/SYA.JPG" alt="Shin-Young An" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-        <div class="person-initials" style="display:none">SY</div>
-        <p class="person-name">Shin-Young An</p>
-        <a class="person-link" href="https://www.sciencedirect.com/science/article/pii/S030100822400087X" target="_blank" rel="noopener">Paper ↗</a>
-      </div>
-
-    </div>
-  </section>
-
   <!-- Master Students -->
   <section class="people-section">
     <h2 class="people-section-title">Master students</h2>
