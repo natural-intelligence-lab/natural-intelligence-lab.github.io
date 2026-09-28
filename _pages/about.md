@@ -17,6 +17,8 @@ We aim to solve the mystery of how the brain generates complex and intelligent b
 
 **Recent Updates**
 
+* August 2026: Arghavan and Joohyun graduated with their master's degree and will continue in the lab for PhD. Congrats!
+* July 2026: NI lab said goodbye to Jun seo and Shin-young. Good luck on your new paths and we'll miss you!
 * May 2026: Su-Jin got awarded the Jungbong Neuroscience Fellowship (중봉뇌과학펠로우십). Congrats!
 * November 2025: Somang and Shin-young presented at Society for Neuroscience (SFN) meeting. Somang and Su-Jin will be in Montreal to collaborate with Taylor Webb@MILA.
 * October 2025: Arghavan’s paper is accepted at Neural Information Processing Systems (NeurIPS) MATH-AI workshop. Congrats!

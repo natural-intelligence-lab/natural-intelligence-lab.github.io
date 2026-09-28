@@ -41,9 +41,15 @@ author_profile: true
       </div>
 
       <div class="person-card">
-        <img src="../images/JSH.png" alt="Jun Seo Hwang" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-        <div class="person-initials" style="display:none">JH</div>
-        <p class="person-name">Jun Seo Hwang</p>
+        <img src="../images/AB.JPG" alt="Arghavan Bazigaran" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">AB</div>
+        <p class="person-name">Arghavan Bazigaran</p>
+      </div>
+      
+      <div class="person-card">
+        <img src="../images/JHL.PNG" alt="Joohyun Lee" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+        <div class="person-initials" style="display:none">JL</div>
+        <p class="person-name">Joohyun Lee</p>
       </div>
 
     </div>
@@ -70,22 +76,11 @@ author_profile: true
     <div class="people-grid">
 
       <div class="person-card">
-        <img src="../images/JHL.PNG" alt="Joohyun Lee" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-        <div class="person-initials" style="display:none">JL</div>
-        <p class="person-name">Joohyun Lee</p>
-      </div>
-
-      <div class="person-card">
         <img src="../images/JML.PNG" alt="Jimin Lee" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
         <div class="person-initials" style="display:none">JL</div>
         <p class="person-name">Jimin Lee</p>
       </div>
 
-      <div class="person-card">
-        <img src="../images/AB.JPG" alt="Arghavan Bazigaran" class="person-avatar" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-        <div class="person-initials" style="display:none">AB</div>
-        <p class="person-name">Arghavan Bazigaran</p>
-      </div>
 
     </div>
   </section>
@@ -112,6 +107,8 @@ author_profile: true
   <section class="people-section">
     <h2 class="people-section-title">Alumni</h2>
     <div class="people-pills">
+      <span class="people-pill people-pill--alumni">Shin-Young An</span>
+      <span class="people-pill people-pill--alumni">Jun Seo Hwang</span>
       <span class="people-pill people-pill--alumni">Min-jun Han</span>
       <span class="people-pill people-pill--alumni">Nahyun Lee</span>
     </div>

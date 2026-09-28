@@ -18,6 +18,55 @@ author_profile: true
     <span class="news-year-chevron">▾</span>
   </summary>
   <div class="news-year-body">
+    <div class="news-entry">
+      <span class="news-date">Sep 2026</span>
+      <div class="news-content">
+        <p>Starting the Fall semester with good food!</p>
+        <div class="news-media">
+          <img src="../images/260915_startsemester.jpg">
+        </div>
+      </div>
+    </div>
+  
+    <div class="news-entry">
+      <span class="news-date">Aug 2026</span>
+      <div class="news-content">
+        <p>Congrats to Joohyun and Arghavan for the master's degree!</p>
+        <div class="news-media">
+          <img src="../images/260825_graduation.jpg">
+          <img src="../images/260825_graduation_JHL.jpg">
+          <img src="../images/260825_graduation_AB.jpg">
+        </div>
+      </div>
+    </div>
+  
+    <div class="news-entry">
+      <span class="news-date">July 2026</span>
+      <div class="news-content">
+        <p>NIlab had fun at ICML 2026 @ COEX, SEOUL!</p>
+        <div class="news-media">
+          <img src="../images/26707_ICML.jpg">
+          <img src="../images/26707_ICML2.jpeg">
+        </div>
+      </div>
+      <div class="news-content">
+        <p>Goodbye party for Jun Seo and Shin-young. Best of wishes! </p>
+        <div class="news-media">
+          <img src="../images/260731_HSparty2.jpg" alt="party bonfire">
+          <img src="../images/260804_SYpresents.jpg"  alt="SY presents">
+        </div>
+      </div>
+    </div>
+    
+    <div class="news-entry">
+      <span class="news-date">June 2026</span>
+      <div class="news-content">
+        <p>Celebrated the end of the semester with good Indian food!</p>
+        <div class="news-media">
+          <img src="../images/260630_endofsemester.jpg">
+        </div>
+      </div>
+    </div>
 
     <div class="news-entry">
       <span class="news-date">May 2026</span>
