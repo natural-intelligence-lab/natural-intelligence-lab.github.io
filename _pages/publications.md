@@ -9,7 +9,7 @@ author_profile: true
 
 _Full publication list on [Google Scholar](https://scholar.google.com/citations?user=1TWKOoIAAAAJ&hl=en), [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn), [ORCID](https://orcid.org/0000-0001-8593-7473), [ResearchGate](https://www.researchgate.net/profile/Hansem-Sohn)_
 
-[22] An S-J, Gabel J, <em>__Sohn H__</em>^, Jazayeri M^ (2025) Physical sensorimotor contingencies facilitate learning in monkeys. bioRxiv. https://doi.org/10.64898/2026.11.01.763380.
+[22] An S-J, Gabel J, <em>__Sohn H__</em>^, Jazayeri M^ (2026) Physical sensorimotor contingencies facilitate learning in monkeys. bioRxiv. https://doi.org/10.64898/2026.11.01.763380.
     (^Equal Contribution)
 
 [21] Bazigaran A, <em>__Sohn H__</em>^ (2025) Concept Generalization in Humans and Large Language Models: Insights from the Number Game. NeurIPS (Math-AI workshop).
