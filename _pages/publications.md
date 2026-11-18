@@ -9,6 +9,9 @@ author_profile: true
 
 _Full publication list on [Google Scholar](https://scholar.google.com/citations?user=1TWKOoIAAAAJ&hl=en), [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=hansem+sohn), [ORCID](https://orcid.org/0000-0001-8593-7473), [ResearchGate](https://www.researchgate.net/profile/Hansem-Sohn)_
 
+[22] An S-J, Gabel J, <em>__Sohn H__</em>^, Jazayeri M^ (2025) Physical sensorimotor contingencies facilitate learning in monkeys. bioRxiv. https://doi.org/10.64898/2026.11.01.763380.
+    (^Equal Contribution)
+
 [21] Bazigaran A, <em>__Sohn H__</em>^ (2025) Concept Generalization in Humans and Large Language Models: Insights from the Number Game. NeurIPS (Math-AI workshop).
  
 [20] Han MJ^, Oh Y^, Ann Y, Kang S, Baeg E, Hong SJ, <em>__Sohn H__</em>^, Kim SG^ (2025) Whole-brain effective connectivity of the sensorimotor system using 7T fMRI with electrical microstimulation in non-human primates. Progress in Neurobiology (IF: 6.7, JCR 9.59%). 250:102760 PMID 40280291 (^Equal Contribution)
